@@ -11,6 +11,6 @@ namespace ConsoleApp27
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
-        }
+        }//mb
     }
 }
