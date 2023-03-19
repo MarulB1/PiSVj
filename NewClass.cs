@@ -9,6 +9,6 @@ namespace ConsoleApp27
     class NewClass
     {
         public int v(){
-        }
+        }//ispravak
     }
 }
